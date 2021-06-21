@@ -1,6 +1,6 @@
 # Ubuntu Frame
 
-This is a quick introduction to running Ubuntu Frame on a device.
+This is an introduction to running Ubuntu Frame on a device.
 
 ## Setup your device
 
