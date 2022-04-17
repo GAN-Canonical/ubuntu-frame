@@ -1,4 +1,4 @@
-# Ubuntu Frame
+![Ubuntu+Frame](https://user-images.githubusercontent.com/78618068/163724829-c61ae21d-73cf-4c26-9ac0-8020bcf398bc.svg)
 
 ## Description
 
@@ -20,6 +20,7 @@ The configuration options are described in detail in [REFERENCE.md](REFERENCE.md
 
 Developers working with Ubuntu Frame may find the following useful:
 
+* Embedding IoT GUI with Ubuntu Frame — [Developer Guide](https://ubuntu.com/engage/Embedding_IoT_GUI_with_Ubuntu_Frame)
 * [RUNNING_ON_YOUR_DESKTOP.md](RUNNING_ON_YOUR_DESKTOP.md)
 * [RUNNING_IN_A_VM.md](RUNNING_IN_A_VM.md)
 * [RUNNING_ON_YOUR_DEVICE.md](RUNNING_ON_YOUR_DEVICE.md)
